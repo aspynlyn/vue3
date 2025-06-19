@@ -6,7 +6,7 @@ console.log(messageObj.toString());
 </script>
 
 <template>
-  <h1>Mustache.vue</h1>
+  <h1>Mustacheㅎㅎ.vue</h1>
   <div>
     Hello, <span>{{ message }}</span>
   </div>
@@ -14,7 +14,6 @@ console.log(messageObj.toString());
   <div>Hello, <span v-text="message"></span></div>
   <div>Hello, messageObj <span v-text="messageObj"></span></div>
   <div>Hello, messageObj.name <span v-text="messageObj.name"></span></div>
-
 </template>
 
 <style scoped></style>
