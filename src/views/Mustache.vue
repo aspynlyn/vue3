@@ -6,7 +6,7 @@ console.log(messageObj.toString());
 </script>
 
 <template>
-  <h1>Mustacheㅎㅎ.vue</h1>
+  <h1>Mustache.vue</h1>
   <div>
     Hello, <span>{{ message }}</span>
   </div>
